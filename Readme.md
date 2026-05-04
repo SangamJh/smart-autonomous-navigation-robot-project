@@ -23,7 +23,7 @@ This project is an Arduino-based robot that detects obstacles using an ultrasoni
 - circuit/ → wiring diagram
 
 ## Project Images
-![Robot](images/SJ with robot.jpg)
+![Robot](images/SJ_with_robot.jpg)
 
 ## Circuit Diagram
 In circuit folder
